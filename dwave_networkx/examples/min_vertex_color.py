@@ -13,7 +13,7 @@
 #    limitations under the License.
 #
 # ================================================================================================
-
+  
 import dwave_networkx as dnx
 import networkx as nx
 import dimod
